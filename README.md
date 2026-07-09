@@ -4,7 +4,7 @@
 
 Emoji Story Challenge is a fun and interactive Streamlit application that tests your creativity. Every round, the app generates a random set of emojis, and your task is to write a story that naturally includes them. The app evaluates your story based on creativity, length, and emoji usage, then provides a score, badge, and personalized feedback.
 
-DEMO LINK:
+DEMO LINK:https://emoji-story-challenge-sjjpwhuqsbwg79v4grtk5j.streamlit.app/
 
 
 ✨ Features
